@@ -1,0 +1,5 @@
+.DS_Store
+test
+node_modules
+.vuepress/dist
+public
