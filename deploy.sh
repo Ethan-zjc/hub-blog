@@ -29,4 +29,4 @@ git branch -m master
 git push -f https://${GITHUB_TOKEN}@github.com/Ethan-zjc/hub-blog.git master:gh-pages # 推送到github gh-pages分支
 
 cd -
-rm -rf docs/.vuepress/dist
+# rm -rf docs/.vuepress/dist
