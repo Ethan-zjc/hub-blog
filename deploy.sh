@@ -11,13 +11,12 @@ cd docs/.vuepress/dist
 
 # deploy to github pages
 
-msg='来自github actions的自动部署'
-githubUrl=git@github.com:Ethan-zjc/hub-blog.git
-
 git init
 git add -A
-git commit -m "${msg}"
-git push -f $githubUrl master:gh-pages # 推送到github gh-pages分支
+git commit -m "github actions的自动部署"
+
+git branch -m master
+git push -f git@github.com:Ethan-zjc/hub-blog.git master:gh-pages # 推送到github gh-pages分支
 
 cd -
 rm -rf docs/.vuepress/dist
