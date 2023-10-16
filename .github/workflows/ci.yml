@@ -40,5 +40,5 @@ jobs:
             REMOTE_USER: 'root'
             TARGET: '/var/www/hub-blog/'
         - name: Remove local dist folder
-        run: |
-          rm -rf docs/.vuepress/dist
+          run: |
+            rm -rf docs/.vuepress/dist
