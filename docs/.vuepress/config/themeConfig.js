@@ -51,7 +51,7 @@ module.exports = {
     blogger: {
         // 博主信息，显示在首页侧边栏
         avatar:
-            'https://cdn.statically.io/gh/Ethan-zjc/picx-images-hosting/master/20231017/v2-3b4fc7e3a1195a081d0259246c38debc_1440w.7g0i5tb41cw0.webp',
+            'https://jsd.cdn.zzko.cn/gh/Ethan-zjc/picx-images-hosting@master/20231017/v2-3b4fc7e3a1195a081d0259246c38debc_1440w.7g0i5tb41cw0.webp',
         name: 'Ethan',
         slogan: '前端界的小学生',
     },
