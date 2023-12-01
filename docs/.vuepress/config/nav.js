@@ -37,6 +37,10 @@ module.exports = [
             text: 'JS设计模式总结',
             link: '/pages/4643cd/',
           },
+          {
+            text: '《AST》学习笔记',
+            link: '/pages/ast/',
+          },
         ],
       },
     ],
