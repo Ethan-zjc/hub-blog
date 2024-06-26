@@ -70,7 +70,6 @@ module.exports = [
       { text: '学习', link: '/pages/f2a556/' },
       { text: '心情杂货', link: '/pages/d6d331/' },
       { text: '实用技巧', link: '/pages/baaa02/' },
-      { text: '友情链接', link: '/friends/' },
     ],
   },
   {
